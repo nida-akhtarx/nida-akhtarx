@@ -4,7 +4,7 @@
 
 <h2>Hi I'm Nida Akhtar</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&height=300&lines=Statistics+%26+Data+Science+Student;AI+%7C+ML+Enthusiast;Python+Learner;Data+Analytics+Explorer;Data+Visualization+Enthusiast;Turning+Data+into+Meaningful+Insights;Currently+studying+Statistics+%26+Data+Science;Exploring+AI+%7C+ML+%7C+Data+Analytics;Learning+and+building+projects+with+Python;Working+with+Data+Visualization;Turning+data+into+meaningful+insights;Continuously+learning+and+improving+my+skills;Email%3A+nidaakhtar2k26%40gmail.com" alt="Nida Akhtar Profile Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&height=190&lines=Statistics+%26+Data+Science+Student;AI+%7C+ML+Enthusiast;Python+Learner;Data+Analytics+Explorer;Data+Visualization+Enthusiast;Turning+Data+into+Meaningful+Insights;Currently+studying+Statistics+%26+Data+Science;Exploring+AI+%7C+ML+%7C+Data+Analytics;Learning+and+building+projects+with+Python;Working+with+Data+Visualization;Continuously+learning+and+improving+my+skills;Email%3A+nidaakhtar2k26%40gmail.com" alt="Nida Akhtar Animation"/>
 
 </div>
 
@@ -115,7 +115,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=70&fontColor=FFFFFF&theme=cobalt" width="100%"/>
 
 </div>
-
 
 
 </div>
