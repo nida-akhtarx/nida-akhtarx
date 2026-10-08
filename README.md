@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=cobalt" width="100%"/>
 
-<h2>Hi 👋 I'm Nida Akhtar</h2>
+<h2>Hi  I'm Nida Akhtar</h2>
 
 <h3>Statistics & Data Science Student | AI/ML Enthusiast</h3>
 
@@ -12,19 +12,19 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-* 🎓 Currently studying **Statistics & Data Science**
-* 🤖 Exploring **AI | ML | Data Analytics**
-* 🐍 Learning and building projects with **Python**
-* 📊 Working with **Data Visualization**
-* 💡 Turning data into **meaningful insights**
-* 🚀 Continuously learning and improving my skills
-* 📧 Email: **[nidaakhtar2k26@gmail.com](mailto:nidaakhtar2k26@gmail.com)**
+* ◾ Currently studying **Statistics & Data Science**
+* ◾ Exploring **AI | ML | Data Analytics**
+* ◾ Learning and building projects with **Python**
+* ◾ Working with **Data Visualization**
+* ◾ Turning data into **meaningful insights**
+* ◾ Continuously learning and improving my skills
+* ◾ Email: **[nidaakhtar2k26@gmail.com](mailto:nidaakhtar2k26@gmail.com)**
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 <div align="center">
 
@@ -88,7 +88,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -100,7 +100,7 @@
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <div align="center">
 
@@ -110,7 +110,7 @@
 
 ---
 
-## 🐍 Contributions
+##  Contributions
 
 <div align="center">
 
