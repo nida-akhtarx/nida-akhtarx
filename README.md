@@ -8,23 +8,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Statistics+%26+Data+Science+Student;AI+%7C+ML+Enthusiast;Python+Learner;Data+Analytics+Explorer;Data+Visualization+Enthusiast;Turning+Data+into+Meaningful+Insights" alt="Typing SVG" />
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=About+Me" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&height=300&lines=Currently+studying+Statistics+%26+Data+Science;Exploring+AI+%7C+ML+%7C+Data+Analytics;Learning+and+building+projects+with+Python;Working+with+Data+Visualization;Turning+data+into+meaningful+insights;Continuously+learning+and+improving+my+skills;Email%3A+nidaakhtar2k26%40gmail.com" alt="About Information Animation" />
 
 </div>
-
-* ◾ Currently studying **Statistics & Data Science**
-* ◾ Exploring **AI | ML | Data Analytics**
-* ◾ Learning and building projects with **Python**
-* ◾ Working with **Data Visualization**
-* ◾ Turning data into **meaningful insights**
-* ◾ Continuously learning and improving my skills
-* ◾ Email: **[nidaakhtar2k26@gmail.com](mailto:nidaakhtar2k26@gmail.com)**
 
 ---
 
@@ -131,5 +119,8 @@
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=70&fontColor=FFFFFF&theme=cobalt" width="100%"/>
+
+</div>
+
 
 </div>
