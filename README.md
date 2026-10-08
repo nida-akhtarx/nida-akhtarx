@@ -4,9 +4,19 @@
 
 <h2>Hi I'm Nida Akhtar</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&height=190&lines=Statistics+%26+Data+Science+Student;AI+%7C+ML+Enthusiast;Python+Learner;Data+Analytics+Explorer;Data+Visualization+Enthusiast;Turning+Data+into+Meaningful+Insights;Exploring+AI+%7C+ML+%7C+Data+Analytics;Learning+and+building+projects+with+Python;Working+with+Data+Visualization;Continuously+learning+and+improving+my+skills;Email%3A" alt="Nida Akhtar Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&height=190&lines=Statistics+%26+Data+Science+Student;AI+%7C+ML+Enthusiast;Python+Learner;Data+Analytics+Explorer;Data+Visualization+Enthusiast;Turning+Data+into+Meaningful+Insights;Exploring+AI+%7C+ML+%7C+Data+Analytics;Learning+and+building+projects+with+Python;Working+with+Data+Visualization;Continuously+learning+and+improving+my+skills" alt="Nida Akhtar Animation"/>
 
 </div>
+
+---
+
+##  Quick Stats
+
+* **Role** : Statistics & Data Science Student
+* **University** : University of Azad Jammu & Kashmir (UAJK)
+* **Duration** : 2025 - 2029
+* **Focus** : Python, AI/ML, Data Science & Data Analytics
+* **Status** : Open to Internships & Collaborations
 
 ---
 
