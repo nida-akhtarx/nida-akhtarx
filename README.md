@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=cobalt" width="100%"/>
 
-<h2>Hi  I'm Nida Akhtar</h2>
+<h2>Hi I'm Nida Akhtar</h2>
 
 <h3>Statistics & Data Science Student | AI/ML Enthusiast</h3>
 
@@ -12,7 +12,11 @@
 
 ---
 
-##  About Me
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=About+Me" alt="About Me" />
+
+</div>
 
 * ◾ Currently studying **Statistics & Data Science**
 * ◾ Exploring **AI | ML | Data Analytics**
@@ -24,7 +28,7 @@
 
 ---
 
-##  Skills & Tools
+## Skills & Tools
 
 <div align="center">
 
@@ -64,7 +68,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -88,7 +92,7 @@
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -100,7 +104,7 @@
 
 ---
 
-##  Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -110,7 +114,7 @@
 
 ---
 
-##  Contributions
+## Contributions
 
 <div align="center">
 
@@ -129,5 +133,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=70&fontColor=FFFFFF&theme=cobalt" width="100%"/>
 
 </div>
-
-###
