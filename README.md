@@ -4,11 +4,11 @@
 
 ###
 
-<h4 data-importer="text" align="center">Hi ! I am Nida Akhtar | Statistics & data Science Student | AL/ML Enthusiast</h4>
+<h2 data-importer="text" align="center">Hi ! I am Nida Akhtar | Statistics & data Science Student | AL/ML Enthusiast</h2>
 
 ###
 
-<h5 data-importer="text" align="left">◾ Currently Exploring AL | ML | Data Analytics<br>◾ Learning and building with Python<br>◾ Working with Data Visualization<br>◾ Building projects into meaningful Insights<br>◾ Email : nidaakhtar2k26@gmail.com</h5>
+<h4 data-importer="text" align="left">◾ Currently Exploring AL | ML | Data Analytics<br>◾ Learning and building with Python<br>◾ Working with Data Visualization<br>◾ Building projects into meaningful Insights<br>◾ Email : nidaakhtar2k26@gmail.com</h4>
 
 ###
 
@@ -67,6 +67,10 @@
 
 ###
 
+<h3 data-importer="text" align="left">Streaks:</h3>
+
+###
+
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/nida-akhtarx/nida-akhtarx/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=nida-akhtarx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -79,11 +83,7 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nida-akhtarx/nida-akhtarx/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nida-akhtarx/nida-akhtarx/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nida-akhtarx/nida-akhtarx/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/nida-akhtarx/nida-akhtarx/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
