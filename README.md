@@ -1,9 +1,9 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=cobalt" width="100%"/>
 
-<h1><strong>Hi I'm Nida Akhtar</strong></h1>
-
+<h1><strong>Hi I'm Nida 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&height=190&lines=Statistics+%26+Data+Science+Student;AI+%7C+ML+Enthusiast;Python+Learner;Data+Analytics+Explorer;Data+Visualization+Enthusiast;Turning+Data+into+Meaningful+Insights;Exploring+AI+%7C+ML+%7C+Data+Analytics;Learning+and+building+projects+with+Python;Working+with+Data+Visualization;Continuously+learning+and+improving+my+skills" alt="Nida Akhtar Animation"/>
 
 </div>
@@ -76,7 +76,7 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/>
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/nida-akhtar-836a71446" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
 </a>
 
@@ -123,11 +123,6 @@
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=70&fontColor=FFFFFF&theme=cobalt" width="100%"/>
-
-
-<a href="https://www.linkedin.com/in/nida-akhtar-836a71446" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
-</a>
 
 </div>
 
